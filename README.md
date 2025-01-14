@@ -10,6 +10,13 @@
 
 ## Kotlin
 
+### Flow
+- [flow](https://github.com/jinuemong/study-test/tree/main/app/src/main/java/com/studytest/kotlin/flow)
+- [channel](https://github.com/jinuemong/study-test/tree/main/app/src/main/java/com/studytest/kotlin/channel)
+- [공유 플로우와 상태 플로우](https://github.com/jinuemong/study-test/tree/main/app/src/main/java/com/studytest/kotlin/flow/shared)
+- [flow Lifecycle 이해하기](https://github.com/jinuemong/study-test/tree/main/app/src/main/java/com/studytest/kotlin/flow/lifecycle)
+- [flow 직접 구현하기](https://github.com/jinuemong/study-test/tree/main/app/src/main/java/com/studytest/kotlin/flow/internal)
+
 ## Android
 
 ## Algorithm
@@ -17,7 +24,8 @@
 ## CS
 
 ### OS
-
+- [운영체제](https://github.com/jinuemong/study-test/tree/main/java/src/main/java/com/android/studytest/java/os)
 ## Java
 
 ## OOP
+- [추측에 의한 설계 전략](https://github.com/jinuemong/study-test/tree/main/java/src/main/java/com/android/studytest/java/oop/dcd)
