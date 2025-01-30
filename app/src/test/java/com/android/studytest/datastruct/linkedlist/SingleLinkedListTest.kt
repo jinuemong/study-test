@@ -1,8 +1,7 @@
-package com.android.studytest.datastruct
+package com.android.studytest.datastruct.linkedlist
 
 import com.studytest.datastruct.linkedlist.SingleLinkedList
 import org.junit.Assert.assertEquals
-import org.junit.Before
 import org.junit.Test
 
 class SingleLinkedListTest {

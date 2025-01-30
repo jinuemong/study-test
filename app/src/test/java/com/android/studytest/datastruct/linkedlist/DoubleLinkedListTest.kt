@@ -1,19 +1,17 @@
-package com.android.studytest.datastruct
+package com.android.studytest.datastruct.linkedlist
 
 import com.studytest.datastruct.linkedlist.DoubleLinkedList
 import junit.framework.TestCase.assertEquals
 import junit.framework.TestCase.assertFalse
 import junit.framework.TestCase.assertNull
 import junit.framework.TestCase.assertTrue
-import org.junit.Before
 import org.junit.jupiter.api.Test
 
 class DoubleLinkedListTest {
-
     private var list: DoubleLinkedList<Int> =  DoubleLinkedList()
 
     @Test
-    fun `양방향 연결리스트_맨_앞_삽입_연산_검증`() {
+    fun `양방향_연결리스트_맨_앞_삽입_연산_검증`() {
         // given
         val newValue = 10
 

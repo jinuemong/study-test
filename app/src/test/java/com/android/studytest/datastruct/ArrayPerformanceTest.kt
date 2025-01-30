@@ -45,8 +45,4 @@ class ArrayPerformanceTest {
         assertEquals(operationCount, n)
     }
 
-    @Test
-    fun `탐색에_대한_최악의_시간복잡도_검증`(){
-
-    }
 }
