@@ -30,13 +30,13 @@ class SingleLinkedList<T> {
         if (index == 0) return addFirst(value)
 
         var current = head
-        for (i in 0 until index) current = current?.next
+        for (i in 0 until index-1) current = current?.next
 
         current?.next = Node(value, current?.next)
         size++
     }
 
-    fun remove(value: T): Boolean {
+    fun remove(value: T): T? {
         var current = head
         var prev: Node<T>? = null
 
@@ -48,12 +48,12 @@ class SingleLinkedList<T> {
                     prev.next = current.next
                 }
                 size--
-                return true
+                return current.value
             }
             prev = current
             current = current.next
         }
-        return false
+        return null
     }
 
     fun get(index:Int): T? {

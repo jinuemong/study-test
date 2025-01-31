@@ -2,7 +2,6 @@ package com.studytest.datastruct.hashcrash
 
 // 해시 충돌을 방지하기 위한 해시 + 연결리스트
 // 배열의 각 인덱스가 연결 리스트를 가지는 구조
-
 class ChainingHash<K,V>(
     private val capacity: Int = 10
 ){

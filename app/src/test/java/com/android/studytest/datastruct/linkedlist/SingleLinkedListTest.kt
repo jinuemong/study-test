@@ -2,7 +2,7 @@ package com.android.studytest.datastruct.linkedlist
 
 import com.studytest.datastruct.linkedlist.SingleLinkedList
 import org.junit.Assert.assertEquals
-import org.junit.Test
+import org.junit.jupiter.api.Test
 
 class SingleLinkedListTest {
     private var list: SingleLinkedList<Int> = SingleLinkedList()
