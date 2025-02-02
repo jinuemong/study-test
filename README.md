@@ -16,6 +16,7 @@
 - [공유 플로우와 상태 플로우](https://github.com/jinuemong/study-test/tree/main/app/src/main/java/com/studytest/kotlin/flow/shared)
 - [flow Lifecycle 이해하기](https://github.com/jinuemong/study-test/tree/main/app/src/main/java/com/studytest/kotlin/flow/lifecycle)
 - [flow 직접 구현하기](https://github.com/jinuemong/study-test/tree/main/app/src/main/java/com/studytest/kotlin/flow/internal)
+- [flow 테스트](https://github.com/jinuemong/study-test/tree/main/app/src/test/java/com/android/studytest/kotlin/flow/test)
 
 ## Android
 

@@ -42,7 +42,6 @@ class ChatViewModelTest {
         // when
         source.emit(Message(fromUserId = "0", message = "ABC"))
         advanceTimeBy(1)
-
         // then
         Assertions.assertEquals(
             "ABC",
