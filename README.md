@@ -19,7 +19,7 @@
 - [flow 테스트](https://github.com/jinuemong/study-test/tree/main/app/src/test/java/com/android/studytest/kotlin/flow/test)
 
 ## Android
-
+- [Hilt](https://github.com/jinuemong/study-test/tree/main/app/src/main/java/com/studytest/hilt)
 ## Data Struct & Algorithm
 - [Test Code](https://github.com/jinuemong/study-test/tree/main/app/src/test/java/com/android/studytest/datastruct)
 - [해시 충돌](https://github.com/jinuemong/study-test/tree/main/app/src/main/java/com/studytest/datastruct/hashcrash)
